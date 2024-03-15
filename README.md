@@ -1,4 +1,4 @@
-<h1>pandas-basics</h1>
+<h1>pandas and Numpy basics for Data Analysis</h1>
 <h2>Description:</h2><p>This repository contains my solutions and explorations of basic data analysis tasks using pandas. The tasks are part of various lab assignments where I've practiced working with pandas for tasks such as data cleaning, manipulation, and basic analysis. The goal is to showcase my understanding of pandas fundamentals and my commitment to learning and applying data analysis skills.</p>
 <h2>Contents:</h2>
 <p>
